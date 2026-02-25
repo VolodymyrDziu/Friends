@@ -17,4 +17,11 @@ class Friend {
         self.name = name
         self.birthday = birthday
     }
+     static let sampleData = [
+        Friend(name: "Graham"),
+        Friend(name: "Torry"),
+        Friend(name: "Abraam"),
+        Friend(name: "Vladimir"),
+        Friend(name: "Said"),
+    ]
 }
